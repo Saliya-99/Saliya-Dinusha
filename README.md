@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliya-99&label=Profile%20views&color=0e75b6&style=flat" alt="saliya-99" /> </p>
 
-- 🔭 I’m currently working on **Final year project (Arbitrary Waveform Generator)**
 
 - 📫 How to reach me **dinushasaliya@gmail.com**
 
